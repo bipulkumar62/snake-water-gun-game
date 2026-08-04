@@ -2,7 +2,7 @@
 
 A simple command-line implementation of the classic **Snake 🐍, Water 💧, Gun 🔫** game using Python.
 
-## 📖 About
+## About 📖 
 
 This project is a beginner-friendly Python game where the player competes against the computer.
 
